@@ -56,5 +56,6 @@
    - El manual de usuario debe entregarse en formato digital junto con el código fuente.
    - Cada estudiante debe proporcionar una breve descripción de las contribuciones individuales al proyecto.
 
-Recuerda que este proyecto está diseñado para principiantes, por lo que es importante que los estudiantes tengan recursos de aprendizaje adecuados y estén dispuestos a investigar y aprender mientras avanzan en el proyecto. Fomentar la colaboración y el uso de herramientas de desarrollo como GitHub será clave para el éxito del proyecto.
+
+.
 
