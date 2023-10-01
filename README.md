@@ -44,6 +44,7 @@
 **Colaboración y Comunicación:**
 
    - Utilizar GitHub para gestionar el código fuente del proyecto.
+   - **El proyecto debe ser creado a partir de un Fork de este repositorio**
    - Crear un repositorio para el proyecto a partir del que se comparte en clase.
    - Utilizar los Issues de GitHub para gestionar tareas y problemas.
    - Hacer un seguimiento regular de los avances y problemas en el proyecto a través de GitHub.
