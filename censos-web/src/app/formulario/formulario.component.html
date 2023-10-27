@@ -1,0 +1,20 @@
+<p>formulario works!</p>
+
+<form (formulario)="onSubmit()">
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" name="nombre" [(ngModel)]="nombre" required>
+   
+    <label for="apellido">Apellido:</label>
+    <input type="text" id="apellido" name="apellido" [(ngModel)]="apellido">
+   
+    <label for="correo">Correo:</label>
+    <input type="email" id="correo" name="correo" [(ngModel)]="correo" required>
+   
+    <label for="edad">Edad:</label>
+    <input type="number" id="edad" name="edad" [(ngModel)]="edad">
+   
+    <label for="identificacion">Número de Identificación:</label>
+    <input type="number" id="identificacion" name="identificacion" [(ngModel)]="identificacion">
+   
+    <button type="submit">Enviar</button>
+  </form>
