@@ -1,0 +1,22 @@
+.center-box {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+  }
+  
+  .center-box h1 {
+    font-size: 24px;
+  }
+  
+  .center-box ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .center-box li {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
